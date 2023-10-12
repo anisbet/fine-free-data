@@ -133,6 +133,8 @@ from od2_view
 where Profile in (
 'EPL_ADULT',
 'EPL_JUV',
+'EPL_NOVIDG',
+'EPL_JNOVG',
 'EPL_TEMP',
 'EPL_SELF',
 'EPL_METRO',
@@ -158,6 +160,8 @@ select * from od2_view
 where Profile in (
 'EPL_ADULT',
 'EPL_JUV',
+'EPL_NOVIDG',
+'EPL_JNOVG',
 'EPL_TEMP',
 'EPL_SELF',
 'EPL_METRO',
